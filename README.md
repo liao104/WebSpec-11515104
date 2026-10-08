@@ -3,12 +3,12 @@
 
 ## 學生資訊
 
-學號：(開頭不含s)
-姓名：(請填寫真實姓名)
-信箱：(GitHub申請的信箱)
-GitHub名稱：(在GitHub的名稱)
-儲存庫名稱(Spec)：WebSpec_(學號不含s)
-儲存庫名稱(Page)：WebPage_(學號不含s)
+學號：11515104
+姓廖秉祐秉祐
+信箱：beingyo987@gmail.com
+GitHub名稱：liao104
+儲存庫名稱(Spec)：WebSpec_11515104
+儲存庫名稱(Page)：WebPage_11515104
 課程名稱：AI 規格驅動網站開發
 學期：105學年度第1學期
 教師：高吉隆
